@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1585159277908.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1749975091",
+    "id" : "7EB1C309",
+    "lastKnownWriteTime" : 1585149968,
+    "last_content_update" : 1585149968,
+    "path" : "C:/Users/dvelazquez/OneDrive - Otay Tijuana Venture, LLC/CBX/COVID19/CovidForecast/../CovidForecast_Test/server.R",
+    "project_path" : "../CovidForecast_Test/server.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,12 @@
+name: CovidForecast
+title: CovidForecast
+username:
+account: dvelazquez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2106141
+bundleId: 3005096
+url: https://dvelazquez.shinyapps.io/CovidForecast/
+when: 1586746074.73766
+asMultiple: FALSE
+asStatic: FALSE

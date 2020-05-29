@@ -1,0 +1,12 @@
+name: CBXforecast
+title: CBXforecast
+username:
+account: dvelazquez
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2161816
+bundleId: 3197553
+url: https://dvelazquez.shinyapps.io/CBXforecast/
+when: 1590614037.1635
+asMultiple: FALSE
+asStatic: FALSE
